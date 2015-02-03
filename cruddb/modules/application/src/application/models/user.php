@@ -6,7 +6,7 @@
         private $password;
         public $description;
         public $photo;
-        public $bdate;
+         public $bdate;
         public $cities_idcity;
         public $genders_idgender;
         public $privacy;
